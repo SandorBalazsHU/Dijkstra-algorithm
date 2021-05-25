@@ -1,3 +1,10 @@
+##Build
+./Dijkstra/x64/*.*
+./Dijkstra/x86/*.*
+
+##tmp folders
+./Dijkstra/.vs/*.*
+
 # Prerequisites
 *.d
 
@@ -30,3 +37,6 @@
 *.exe
 *.out
 *.app
+/Dijkstra/.vs/Dijkstra/v16
+/Dijkstra/Debug
+/Dijkstra/Dijkstra/Debug
